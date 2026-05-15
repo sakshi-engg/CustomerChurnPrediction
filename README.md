@@ -133,7 +133,7 @@ churn-prediction/
 
 ---
 
-## Resume Description
+## Project Description
 
 > **Customer Churn Prediction** | Python, XGBoost, Streamlit, scikit-learn  
 > Built an end-to-end ML pipeline to predict customer churn on a 7K-row telecom dataset.
