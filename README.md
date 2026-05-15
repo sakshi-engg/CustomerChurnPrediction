@@ -129,7 +129,7 @@ churn-prediction/
 
 ## Live Demo
 
-🌐 [View the live app →](https://your-app.streamlit.app)
+🌐 [View the live app →](https://customerchurnprediction-analysis.streamlit.app/)
 
 ---
 
@@ -143,4 +143,4 @@ churn-prediction/
 
 ---
 
-*Built by [Your Name] · [LinkedIn](https://linkedin.com) · [Portfolio](https://yoursite.com)*
+*Built by [Sakshi Rathi] 
